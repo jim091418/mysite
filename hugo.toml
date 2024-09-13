@@ -2,7 +2,7 @@
 baseurl = "https://jim091418.github.io/"
 languageCode = "zh"
 
-title = "Cookie網"
+title = "Jim Tang Blog"
 theme = "triple-hyde"
 
 ## Hugo Built-in Features
@@ -75,8 +75,8 @@ theme = "triple-hyde"
 
 ## Main Menu
 [[menu.main]]
-    name = "Posts"
-    weight = 100
+    name = "測試工具"
+    weight = 300
     identifier = "posts"
     url = "/posts/"
 [[menu.main]]
@@ -85,14 +85,14 @@ theme = "triple-hyde"
     weight = 200
     url = "/thm/"
 [[menu.main]]
-    name = "Icons"
-    identifier = "icons"
+    name = "滲透測試"
+    identifier = "taccst"
     weight = 250
-    url = "/icons/"
+    url = "/taccst/"
 [[menu.main]]
-    name = "About"
+    name = "關於我"
     identifier = "about"
-    weight = 300
+    weight = 100
     url = "/about/"
 [[menu.main]]
     name = "測試東西"
